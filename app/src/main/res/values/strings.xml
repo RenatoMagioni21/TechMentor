@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TechMentor</string>
+
+    <string name="hint_email">E-mail Institucional</string>
+    <string name="hint_password">Senha</string>
+    <string name="btn_login">Entrar</string>
+
+    <string name="title_search">Buscar Mentores</string>
+    <string name="filter_hint">Filtrar por disciplina (Java, MySQL...)</string>
+
+    <string name="title_schedule">Confirmar Mentoria</string>
+    <string name="btn_confirm_schedule">Agendar Agora</string>
+
+    <string name="title_mentor_dashboard">Minha Agenda de Mentorias</string>
+    <string name="status_next_sessions">Próximas Sessões Confirmadas</string>
+</resources>
